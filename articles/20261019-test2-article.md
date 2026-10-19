@@ -3,7 +3,7 @@ title: "テストテックブログ2"
 emoji: "🗂"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ai", "security", "pmo", "マネジメント", "受託開発"]
-published: true
+published: false
 
 ---
 テスト投稿です。
